@@ -1,6 +1,5 @@
 export const getWeather = async (unit) => {
-    const city = "Göteborg";
-    // const city = "London";
+    const city = process.env.REACT_APP_CITY;
     const key = process.env.REACT_APP_AUTH_TOKEN;
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&units=${unit}&appid=${key}`;
 
