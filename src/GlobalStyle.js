@@ -3,10 +3,10 @@ import { createGlobalStyle } from "styled-components";
 const GlobalStyle = createGlobalStyle`
   :root {
     --maxWidth: 1280px;
-    --bg-color: #282C34;
+    --bg-color: #111419;
     --white: #fff;
     --lightGray: #dadbdb;
-    --darkGray: #ABB2BF;
+    --darkGray: #777370;
     --red: #E06C75;
     --green: #98C379;
     --yellow: #E5C07B;
