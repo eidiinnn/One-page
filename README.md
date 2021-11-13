@@ -18,4 +18,5 @@ Edit the links in `src/components/Links/Links.js`.
 
 Then run `npm run build` when you are done editing the files.
 
-Made by [R-Jin](https://github.com/R-Jin/)
+Made by [R-Jin](https://github.com/R-Jin/). <br />
+Art by [Lois](https://www.artstation.com/loish).
